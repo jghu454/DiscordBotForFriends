@@ -21,7 +21,6 @@ commands = {
   "pepedance" : commandList.pepedance,
   "loser" : commandList.loser,
   "troll" : commandList.troll,
-  "sus" : commandList.sus,
   "pepehigh" :commandList.pepehigh,
   "kekw" :commandList.kekw,
   "evil" :commandList.evil,
