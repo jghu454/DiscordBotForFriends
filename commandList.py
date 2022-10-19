@@ -88,9 +88,6 @@ def loser(message):
 def troll(message):
   return "https://tenor.com/view/lol-sus-troll-troll-face-face-gif-22065080"
 
-def sus(message):
-  return "https://tenor.com/view/impostersus-the-impostor-is-sus-fuck-you-meio-sus-among-us-gif-20598684"
-
 
 
 def kekw(message):
